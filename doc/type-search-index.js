@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"br.com.carteira.criptoativo","l":"Bitcoin"},{"p":"br.com.carteira.carteira","l":"Carteira"},{"p":"br.com.carteira.criptoativo","l":"CriptoAtivo"},{"p":"br.com.carteira.testecarteira","l":"TesteCarteira"}];updateSearchResults();

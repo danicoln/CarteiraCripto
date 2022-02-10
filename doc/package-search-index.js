@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"br.com.carteira.carteira"},{"l":"br.com.carteira.criptoativo"},{"l":"br.com.carteira.testecarteira"}];updateSearchResults();
